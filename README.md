@@ -36,6 +36,7 @@ The agent learns by interacting with the environment, maximizing cumulative rewa
 ## 🗂 Project Structure
 
 📁 A3C-KungFu-RL
+
 ├── A3C_for_Kung_Fu_Complete_Code.ipynb # Main implementation notebook
 ├── README.md # Project documentation
 └── Video/
